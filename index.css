@@ -7,5 +7,11 @@ body {
 
 h1 {
   font-size: 40px;
-  color: #DDD;
+  color: #EEE;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-top: 10px;
+  color: #CCC;
 }
