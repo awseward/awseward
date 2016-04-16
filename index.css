@@ -1,0 +1,11 @@
+body {
+  /* http://flatcolors.net/palette/581-flat-ui-design */
+  background-color: #032E46;
+  font-family: 'Josefin Slab', serif;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  color: #DDD;
+}
