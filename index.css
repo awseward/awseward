@@ -10,9 +10,15 @@ body {
   padding: 10px 20px;
 }
 
-#header-github-link {
+.header-social-icon-link {
   float: right;
   margin-top: 10px;
+  margin-left: 10px;
+}
+
+.header-social-icon-link img {
+  height: 32px;
+  width: 32px;
 }
 
 #main-header h1 {
