@@ -2,16 +2,36 @@ body {
   /* http://flatcolors.net/palette/581-flat-ui-design */
   background-color: #032E46;
   font-family: 'Josefin Slab', serif;
-  padding: 20px;
+  margin: 0px;
 }
 
-h1 {
-  font-size: 40px;
+#main-header {
+  margin: 0;
+  padding: 10px 20px;
+}
+
+#main-header h1 {
+  font-size: 60px;
   color: #EEE;
+  margin-top: 20px;
   margin-bottom: 10px;
+  margin-left: 0px;
 }
 
-p {
+#main-header p {
   margin-top: 10px;
+  margin-bottom: 10px;
   color: #CCC;
+}
+
+#main-content {
+  background-color: #043D5D;
+  padding: 10px;
+  height: 100%;
+}
+
+#main-content section {
+  background-color: #DDD;
+  padding: 10px 20px;
+  margin: 10px;
 }
