@@ -21,6 +21,16 @@ body {
   width: 24px;
 }
 
+h1 a {
+  text-decoration: none;
+  color: #EEE;
+}
+
+h1 a:hover {
+  text-decoration: none;
+  color: #BBB;
+}
+
 #main-header h1 {
   font-size: 30px;
   font-weight: 300;
