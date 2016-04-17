@@ -6,8 +6,10 @@ body {
 }
 
 #main-header {
-  margin: 0;
-  padding: 10px 20%;
+  margin: 0 auto;
+  width: 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .header-social-icon-link {
@@ -53,7 +55,8 @@ h1 a:hover {
 #main-header p {
   margin-top: 10px;
   margin-bottom: 10px;
-  color: #CCC;
+  text-align: center;
+  color: #23B684;
 }
 
 #main-content {
