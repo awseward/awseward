@@ -59,7 +59,6 @@ h1 a:hover {
 #main-content {
   background-color: #043D5D;
   padding: 10px 20%;
-  height: 100%;
 }
 
 section {
@@ -80,6 +79,6 @@ section h1 {
 }
 
 section p {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
