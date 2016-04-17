@@ -58,13 +58,14 @@ h1 a:hover {
 
 #main-content {
   background-color: #043D5D;
-  padding: 10px 20%;
+  padding: 10px;
 }
 
 section {
   background-color: #DDD;
   padding: 10px 20px;
-  margin: 10px;
+  margin: 10px auto;
+  width: 500px;
 }
 
 section h1 {
