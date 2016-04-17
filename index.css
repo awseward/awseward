@@ -7,13 +7,13 @@ body {
 
 #main-header {
   margin: 0;
-  padding: 10px 20px;
+  padding: 10px 20%;
 }
 
 .header-social-icon-link {
   float: right;
   margin-top: 10px;
-  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .header-social-icon-link img {
@@ -22,11 +22,13 @@ body {
 }
 
 #main-header h1 {
-  font-size: 60px;
+  font-size: 30px;
+  font-weight: 300;
   color: #EEE;
   margin-top: 20px;
   margin-bottom: 10px;
-  margin-left: 0px;
+  text-align: center;
+  width: 100%;
 }
 
 #main-header p {
@@ -37,7 +39,7 @@ body {
 
 #main-content {
   background-color: #043D5D;
-  padding: 10px;
+  padding: 10px 20%;
   height: 100%;
 }
 
