@@ -7,7 +7,7 @@ if [ ! -f $DOTENV_FILE ]; then
 fi
 source "$DOTENV_FILE"
 
-./bin/build.sh
+./script/build.sh
 
 echo "------"
 echo "Deploy"

@@ -7,7 +7,7 @@ if [ ! -f $DOTENV_FILE ]; then
 fi
 source "$DOTENV_FILE"
 
-./bin/clean.sh
+./script/clean.sh
 
 echo "-----"
 echo "Build"
